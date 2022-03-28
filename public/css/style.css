@@ -1,0 +1,53 @@
+body {
+	background-color: #d5dbe9;
+	color: white;
+}
+
+div {
+	background-color: #b5cea6;
+	border-radius: 1em;
+}
+
+th, td {
+	font-size: 32px;
+	width: 50%;
+}
+
+td {
+	text-align: left;
+}
+
+th {
+	text-align: center;
+}
+
+button {
+	width: 100%;
+	min-height: 100%;
+	margin-bottom: 1em;
+	border-radius: 10px;
+}
+
+.btn {
+	background-color: #fa83a6;
+	text-transform: uppercase;
+	font-size: 24px;
+	outline: none;
+}
+
+table {
+	width: 100%;
+	text-align: center;
+	justify-content: center;
+}
+
+.col {
+	margin-top: 1em;
+}
+
+.container {
+	transform: translate(-50%, -50%);
+	position: absolute;
+	left: 50%;
+	top: 50%;
+}
